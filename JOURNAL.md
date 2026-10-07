@@ -25,7 +25,7 @@
 
 ![image_2026-10-05_222519479](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Aak0Y0a0ppmv3RPoHNE55PGI9i4P30aq/e20ec0cdb7338dd9a1f3f31873e532c007e2c424502a9462589a3a2e43be1ec8.png)
 
-Finally figured out KiCad(mostly, I still suck a bit)
+After about an hour of working, Finally figured out KiCad(mostly, I still suck a bit)
 
 So today was the first day using KiCad,I had to make Starbie on it. Initially I
 
