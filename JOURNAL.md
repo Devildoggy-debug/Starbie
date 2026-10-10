@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.32h | 4 |
+| Week 1 | Tier 1 | 6.65h | 4 |
 
 ## Contents
 
@@ -53,6 +53,10 @@ tl;dr is I spent the first day  figuring out how to wok on KiCad and find joy in
 
 ### 2026-10-10 – Work session
 
-**2.22h**
+**2.55h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/02eb221a-17de-4a07-8230-58ca0e184913/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/19eca259-84a4-4a83-8b7f-a9832dab6de4/video.mp4)
