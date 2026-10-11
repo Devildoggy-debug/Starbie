@@ -96,4 +96,7 @@ Of course he was reduces to black and white, but he still looks fine. After that
 
 After that realised I had saved some stuff wrong on KiCad and tweaked that,the Github upload was fine,just my saves were a bit off.After that uploaded everything to submit and then Verified my details in Hackclub now,tho I gotta wait a business day for them to do it, idk what to do now. It'll be fine probably.
 
-Tldr:now my PCB is finally error free,coded in Arduino,Added custom fire effect,Made a sprite on my own named Gumpo,Uploaded everything to Github,and now hoping hackclub verifies my info quickly
+Tldr:now my PCB is finally error free,coded in Arduino,Added custom fire effect,Made a sprite on my own named Gumpo,Uploaded everything to Github,Went shop hunting for half an hour,and now hoping hackclub verifies my info quickly.
+
+BUT WEEK 1 HAS ENDED! WOOOOOOOOOO
+(It was very fun)
