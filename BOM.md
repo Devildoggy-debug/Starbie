@@ -24,7 +24,7 @@
 | [DHT11](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) | Sensor | 1 | $2.68 | $2.68 | [Amazon](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) |
 | [3V Battery](https://www.amazon.in/CR2032-Lithium-Coin-Battery-pcs/dp/B0CXKL8DC1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX) | Battery for LEDs | 1 | $2.07 | $2.07 | [Amazon](https://www.amazon.in/CR2032-Lithium-Coin-Battery-pcs/dp/B0CXKL8DC1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX) |
 | **Parts subtotal** | — | — | — | **$25.12** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$28.12** | — |
+| **Tax & shipping** | — | — | — | **$4.00** | — |
+| **Total** | — | — | — | **$29.12** | — |
 
-$1.88 left of the tier's funding.
+$0.88 left of the tier's funding.
