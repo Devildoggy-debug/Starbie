@@ -23,7 +23,7 @@
 | [XIAO-ESP32-C3-SMD](https://thinkrobotics.com/products/seeed-studio-xiao-rp2040?variant=47933480173885&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=cpc&utm_source=SR_google&utm_medium=pmax&utm_campaign=PMax_Shopping_IN_SR467-17456069194&utm_content=-&gad_source=1&gad_campaignid=18239908785&gclid=CjwKCAjw56zWBhB0EiwAdPOQOf6IgNz5R3BqPwlQqQl8AWVahfhugwIoGKNaa2ns9PY7rDB2DrE_2hoC0ywQAvD_BwE) | Microcontroller | 1 | $7.23 | $7.23 | [Think Robotics](https://thinkrobotics.com/products/seeed-studio-xiao-rp2040?variant=47933480173885&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=cpc&utm_source=SR_google&utm_medium=pmax&utm_campaign=PMax_Shopping_IN_SR467-17456069194&utm_content=-&gad_source=1&gad_campaignid=18239908785&gclid=CjwKCAjw56zWBhB0EiwAdPOQOf6IgNz5R3BqPwlQqQl8AWVahfhugwIoGKNaa2ns9PY7rDB2DrE_2hoC0ywQAvD_BwE) |
 | [DHT11](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) | Sensor | 1 | $2.68 | $2.68 | [Amazon](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) |
 | **Parts subtotal** | — | — | — | **$27.54** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.54** | — |
+| **Tax & shipping** | — | — | — | **$2.44** | — |
+| **Total** | — | — | — | **$29.98** | — |
 
-$2.46 left of the tier's funding.
+$0.02 left of the tier's funding.
