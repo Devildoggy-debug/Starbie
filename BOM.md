@@ -23,7 +23,7 @@
 | [XIAO-ESP32-C3-SMD](https://loftyagrotech.com/products/seeed-studio-xiao-esp32c6) | Microcontroller | 1 | $9.67 | $9.67 | [Loftyagrotech](https://loftyagrotech.com/products/seeed-studio-xiao-esp32c6) |
 | [DHT11](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) | Sensor | 1 | $2.68 | $2.68 | [Amazon](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) |
 | **Parts subtotal** | — | — | — | **$29.98** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$32.98** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$29.98** | — |
 
-**$2.98 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.02 left of the tier's funding.
