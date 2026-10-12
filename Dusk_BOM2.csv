@@ -1,4 +1,3 @@
-Some items have quantity 1,even though multiple need to be bought because some items are sold in packs with multiple of the same items
 "Reference","Qty","Value","Cost","website","Footprint","Datasheet"
 "BT1 (Battery holder)","1","","$0.50","https://in.element14.com/keystone/3034tr/battery-contact-coin-cell-20mm/dp/2959382","Battery:BatteryHolder_Keystone_3034_1x20mm",""
 "D1,D2","1","LED","$0.05","https://techtonics.in/product/5mm-round-white-led-2pin/?srsltid=AU7gw4WYyVBFoiB5SX1NkU9sesHsxuXcRevhFP9Q3OYVX5no6MHSYKCl9d4","LED_THT:LED_D5.0mm",""
