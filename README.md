@@ -10,4 +10,21 @@ Below are the schematic,3D model and PCB display of My Starbie
 <img width="610" height="410" alt="Screenshot 2026-10-10 233438" src="https://github.com/user-attachments/assets/d48c175e-de7f-4a59-b79e-a0d9603b4548" />
 <img width="689" height="420" alt="Screenshot 2026-10-11 005305" src="https://github.com/user-attachments/assets/7c0d1664-7025-4155-bde5-397a32c77d61" />
 
-Note:For Dusk_Bom2_csv:Some items have quantity 1,even though multiple need to be bought because some items are sold in packs with multiple of the same items
+BOM for Dusk:
+
+
+### Bill of Materials (BOM)
+
+| Reference | Qty | Value | Cost | Website | Footprint | Datasheet |
+| :--- | :---: | :--- | :---: | :---: | :--- | :---: |
+| BT1 (Battery holder) | 1 | | $0.50 | [Link](https://in.element14.com/keystone/3034tr/battery-contact-coin-cell-20mm/dp/2959382) | Battery:BatteryHolder_Keystone_3034_1x20mm | |
+| D1,D2 | 1 | LED | $0.05 | [Link](https://techtonics.in/product/5mm-round-white-led-2pin/?srsltid=AU7gw4WYyVBFoiB5SX1NkU9sesHsxuXcRevhFP9Q3OYVX5no6MHSYKCl9d4) | LED_THT:LED_D5.0mm | |
+| J1 | 1 | Conn_01x04_MountingPin | $2.07 | [Link](https://techtonics.in/product/0-96-inch-i2c-iic-128x64-oled-display-module-4-pin-yellow-blue-color/?srsltid=AU7gw4URHwcidTIcFkySu7G90KVIEDv9nnOj5pwqBi-oZm4BpHAqL1xlpSU) | Imported Parts:Display_128x64_096_I2C | |
+| J2 | 1 | Conn_01x08_MountingPin | $3.61 | [Link](https://www.amazon.in/SHOKITECH-2-54mm-Single-Straight-Header/dp/B0CM7H4SPM) | Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical | |
+| R1 | 1 | 10K | $0.70 | [Link](https://in.element14.com/vishay/mba02040c1002fc100/res-10k-1-400mw-axial-thin-film/dp/2614354) | Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal | |
+| R2,R3 | 1 | 220 | $1.62 | [Link](https://in.element14.com/vishay/mbb02070c2200fct00/res-220r-0-6w-axial-metal-film/dp/3546954) | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | |
+| SW1,SW2 | 1 | SW_Push | $4.49 | [Link](https://neomacro.in/products/cherry-mx-switches?srsltid=AU7gw4XISCDAMECzFsRSF6n9Iz9YlAOe0Jn77wQGhb9YwPDikEzn6JcmHIo) | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB | |
+| SW3,SW4 | 1 | SW_Push | $0.10 | [Link](https://techtonics.in/product/tactile-push-button-switch-4-pin-6x6x5-pack-of-10/) | Button_Switch_THT:SW_PUSH_6mm | |
+| U1 | 1 | XIAO-ESP32-C3-SMD | $7.23 | [Link](https://thinkrobotics.com/products/seeed-studio-xiao-rp2040?variant=47933480173885&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=cpc&utm_source=SR_google&utm_medium=pmax&utm_campaign=PMax_Shopping_IN_SR467-17456069194&utm_content=-&gad_source=1&gad_campaignid=18239908785&gclid=CjwKCAjw56zWBhB0EiwAdPOQOf6IgNz5R3BqPwlQqQl8AWVahfhugwIoGKNaa2ns9PY7rDB2DrE_2hoC0ywQAvD_BwE) | Imported Parts:XIAO-ESP32-C6-DIP | |
+| U2 | 1 | DHT11 | $2.68 | [Link](https://www.amazon.in/DHT11-temperature-and-humidity-sensor/dp/B0D78NP6GQ/ref=pd_lpo_d_sccl_2/524-7894693-3720055?pd_rd_w=lEKtF&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=4SEVF1R5ZT1XHH57YXY0&pd_rd_wg=0lrlF&pd_rd_r=bfad8e95-3a74-4bf9-a463-96e847242546&pd_rd_i=B0D78NP6GQ&psc=1) | Sensor:Aosong_DHT11_5.5x12.0_P2.54mm | [Datasheet](http://akizukidenshi.com/download/ds/aosong/DHT11.pdf) |
+| Battery | 1 | 3V | $2.07 | [Link](https://www.amazon.in/CR2032-Lithium-Coin-Battery-pcs/dp/B0CXKL8DC1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX) | | |
